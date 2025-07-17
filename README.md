@@ -82,6 +82,7 @@ create-fullstack-vite my-local-test
 
 We're actively working on these improvements. Feel free to pick one and open a PR!
 
+- [ ] Dockerize the FS web app
 - [ ] Improve NestJS backend scaffolding (better .env injection, cleanup files)
 - [ ] Add support to serve frontend build from backend
 - [ ] Add Database configuration templates (PostgreSQL, MongoDB)
