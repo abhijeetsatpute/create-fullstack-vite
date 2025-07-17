@@ -94,7 +94,7 @@ We're actively working on these improvements. Feel free to pick one and open a P
 
 ## 📃 License
 
-create-fullstack-vite is licensed under the [MIT License](https://github.com/abhijeetsatpute/create-fullstack-vite/blob/main/LICENSE.md). See the LICENSE.md file for details.
+create-fullstack-vite is licensed under the [MIT License](https://github.com/abhijeetsatpute/create-fullstack-vite/blob/main/LICENSE). See the LICENSE.md file for details.
 
 ---
 
