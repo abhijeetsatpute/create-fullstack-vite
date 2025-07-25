@@ -1,6 +1,6 @@
 {
   "name": "create-fullstack-vite",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Scaffold a fullstack monorepo with Vite + Express/NestJS + Turborepo",
   "bin": {
     "create-fullstack-vite": "bin/index.js"
