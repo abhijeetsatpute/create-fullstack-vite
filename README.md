@@ -82,9 +82,10 @@ create-fullstack-vite my-local-test
 
 We're actively working on these improvements. Feel free to pick one and open a PR!
 
-- [ ] [Dockerize the FS web app](https://github.com/abhijeetsatpute/create-fullstack-vite/issues/6)
-- [ ] Improve NestJS backend scaffolding (better .env injection, cleanup files)
 - [X] [Add support to serve frontend build from backend](https://github.com/abhijeetsatpute/create-fullstack-vite/issues/7)
+- [ ] [Dockerize the FS web app](https://github.com/abhijeetsatpute/create-fullstack-vite/issues/6)
+- [ ] [Deploy script to Build-Push-Deploy the docker image](https://github.com/abhijeetsatpute/create-fullstack-vite/issues/12)
+- [ ] Improve NestJS backend scaffolding (better .env injection, cleanup files)
 - [ ] Add Database configuration templates (PostgreSQL, MongoDB)
 - [ ] Add full login module (Frontend + Backend integration)
 - [ ] Add option to choose Tailwind / MUI for frontend styling
